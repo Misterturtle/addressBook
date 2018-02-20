@@ -1,6 +1,5 @@
-import com.mysql.cj.api.xdevapi.Table;
+import database_layer.models.TableColumn;
 import org.junit.After;
-import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
 

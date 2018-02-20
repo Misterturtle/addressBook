@@ -1,3 +1,5 @@
+package database_layer.models;
+
 import java.sql.SQLType;
 
 public class TableColumn<T> {
